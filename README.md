@@ -15,8 +15,8 @@ A manager at the bank is disturbed with more and more customers leaving their cr
 
 **2. [TimeSeries - PredictingPopulationNYCMetro](https://github.com/renanwilliams/TimeSeries-PredictingPopulationNYCMetro)**
 
-O objetivo principal é prever o número de pessoas que usam o metrô.
+O objetivo principal é prever o número de pessoas que usam o metrô de NYC.
 
-**3. [WordCloud](https://github.com/renanwilliams/WordCloud)**
+**3. [Previsão Quantidade de Vendas de Produtos](https://github.com/renanwilliams/Previsao_QTD_Vendas_Produtos)**
 
-Dois métodos de WordCloud utilizando tweets dos antigos candidatos (Lula e Bolsonaro) à presidência do Brasil no período eleitoral de 2022.
+De acordo com o objetivo dado (realizar previsão de vendas de cada produto na base de dados), duas soluções foram propostas: Solução Principal foi construída com base nos produtos que possuem ciclos completos (329produtos), porém foi aplicado algoritmo de KMeans para representação desses produtos em 3 grupos distintos com o objetivo de conseguir detalhar mais o processo de criação dos modelos. Solução Alternativa, também utilizando os 329 produtos, porém com o objetivo de desenvolver uma solução mais simples e com a previsão individual de cada produto.
